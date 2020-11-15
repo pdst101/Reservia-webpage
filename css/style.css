@@ -1,0 +1,28 @@
+* {
+    margin: 0px;
+    padding: 5px;    
+}
+body {
+    font-family: 'Raleway', sans-serif;
+}
+nav {
+}
+a {
+    text-decoration: none;
+    text-align: center;
+    color: black;
+    vertical-align:top;
+    padding: 30px 20px;
+    float: right;
+}
+.topnav a:visited, a:hover{
+    color: #0065FC;
+    border-top: 2px solid #0065FC;
+    margin: 0px;
+    text-align: center;
+    vertical-align:top;
+    display:inline-block;
+}
+#sign  {
+    color: #0065FC;
+}
