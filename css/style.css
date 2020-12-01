@@ -510,16 +510,18 @@ footer {
         display: block;
     }
     .searchContainer i {
-        font-size: 15px;
-        padding: 12px;
+        font-size: 13px;
+        padding: 10px;
     }
     .searchContainer input {
-        font-size: 15px;
+        font-size: 13px;
         font-weight: 600;
+        padding: 8px;
     }
     .searchButton {
-        font-size: 15px;
+        font-size: 13px;
         margin-left: 0px;
+        padding: 9px;
     }
 /* Main Body for mobile */
     main {
